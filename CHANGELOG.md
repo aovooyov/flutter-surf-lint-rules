@@ -1,5 +1,8 @@
 # Changelog
 
+## 4.0.0
+* upgraded flutter_lints to 3.0.1
+
 ## 3.0.0
 
 * [BREAKING CHANGE] Removed dart_code_metrics
